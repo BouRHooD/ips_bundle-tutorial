@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'I-PS ПОС. КОМПЛЕКТ'
+copyright = '2022, ИнжПроектСервис'
+author = 'ИнжПроектСервис'
 
 release = '0.1'
 version = '0.1.0'
